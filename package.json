@@ -1,0 +1,37 @@
+{
+  "name": "zoho-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "@hubspot/api-client": "^7.0.1",    
+    "axios": "^0.21.1",
+    "base-64": "^1.0.0",
+    "base64-js": "^1.5.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "emailjs": "^3.7.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "hubspot": "^2.3.14",
+    "jsonwebtoken": "^8.5.1",
+    "ldapjs": "^2.2.4",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }  
+
+}
